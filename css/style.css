@@ -1,0 +1,16 @@
+body {
+    background-image: url(https://alqudscollege-my.sharepoint.com/personal/advtech_ltuc_com/Documents/Academia/Courses/Code%20Fellows%20Courses/Entrance%20Exam/301%20Entrance%20Exam/201d27/school.jpg);
+}
+
+#stdform{
+    width: 30%;
+    background-color: rgba(114, 104, 211, 0.8) ;
+}
+
+#StdTable{
+    float: right;
+    border: 1px black solid;
+    position: relative;
+    bottom: 100px;
+}
+
